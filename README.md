@@ -2,7 +2,7 @@
 # Introduction to Data Science project 
 
 ### The code involves exploration of data - using exploratory data analysis
-### descriptive statistics, 
+### descriptive statistics - using NumPy and Pandas methods, 
 ### graphs - using Matplotlib, 
 ### linear prediction using sklearn and statsmodels.api, 
 ### dimensionality reduction - using PCA
